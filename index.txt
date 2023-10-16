@@ -1,7 +1,7 @@
-1:HL["/frontendmentor-easybank-landing-page/_next/static/css/7f6c3e3663833127.css","style"]
-0:["ETa0DQDtUDV6ItsGf4b3A",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/frontendmentor-easybank-landing-page/_next/static/css/7f6c3e3663833127.css","precedence":"next"}]],"$L3"]]]]
-4:I{"id":1443,"chunks":["272:static/chunks/webpack-a9c6bfd5909d40d8.js","971:static/chunks/fd9d1056-2703617740f52551.js","864:static/chunks/864-701354699974688f.js"],"name":"","async":false}
-5:I{"id":8639,"chunks":["272:static/chunks/webpack-a9c6bfd5909d40d8.js","971:static/chunks/fd9d1056-2703617740f52551.js","864:static/chunks/864-701354699974688f.js"],"name":"","async":false}
+1:HL["/frontendmentor-easybank-landing-page/_next/static/css/e043309cd5748bab.css","style"]
+0:["cBvTX2WqKYWHG7E-Fjnv_",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/frontendmentor-easybank-landing-page/_next/static/css/e043309cd5748bab.css","precedence":"next"}]],"$L3"]]]]
+4:I{"id":1443,"chunks":["272:static/chunks/webpack-c65d2f73e06faf15.js","971:static/chunks/fd9d1056-2703617740f52551.js","864:static/chunks/864-701354699974688f.js"],"name":"","async":false}
+5:I{"id":8639,"chunks":["272:static/chunks/webpack-c65d2f73e06faf15.js","971:static/chunks/fd9d1056-2703617740f52551.js","864:static/chunks/864-701354699974688f.js"],"name":"","async":false}
 7:I{"id":5006,"chunks":["787:static/chunks/b5c10047-0976f0ad2c67382d.js","956:static/chunks/956-f7a743d126a34f6a.js","931:static/chunks/app/page-2447d41d65bcb7d9.js"],"name":"","async":false}
 8:I{"id":6964,"chunks":["787:static/chunks/b5c10047-0976f0ad2c67382d.js","956:static/chunks/956-f7a743d126a34f6a.js","931:static/chunks/app/page-2447d41d65bcb7d9.js"],"name":"Image","async":false}
 e:I{"id":4724,"chunks":["787:static/chunks/b5c10047-0976f0ad2c67382d.js","956:static/chunks/956-f7a743d126a34f6a.js","931:static/chunks/app/page-2447d41d65bcb7d9.js"],"name":"","async":false}
