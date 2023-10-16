@@ -1,18 +1,12 @@
-import { Itim, Roboto } from 'next/font/google'
+import { Public_Sans } from 'next/font/google'
 
-const fontPrimary = Roboto({
+const fontPrimary = Public_Sans({
   subsets: ['latin'],
-  weight: ['400'],
+  weight: ['300', '400', '700'],
   variable: '--font-primary',
 })
 
-const fontSecondary = Itim({
-  subsets: ['latin'],
-  weight: ['400'],
-  variable: '--font-secondary',
-})
-
-const useFonts = [fontPrimary, fontSecondary]
+const useFonts = [fontPrimary]
 
 /* #####################
  * Magic

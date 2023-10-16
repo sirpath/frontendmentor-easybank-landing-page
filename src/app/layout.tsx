@@ -4,7 +4,7 @@ import fontClass from '@/styles/font'
 
 const RootLayout: FC<PropsWithChildren> = ({ children }) => (
   <html lang="en" className={fontClass}>
-    <body className="font-primary md:max-w-7xl">
+    <body className="flex flex-col items-center font-primary ">
       {children}
     </body>
   </html>

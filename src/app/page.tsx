@@ -1,4 +1,9 @@
 import type { Metadata } from 'next'
+import Articles from '@/app/components/Articles'
+import Features from '@/app/components/Features'
+import Footer from '@/app/components/Footer'
+import HeroContent from '@/app/components/HeroContent'
+import NavBar from '@/app/components/NavBar'
 
 export const metadata: Metadata = {
   title: 'Simple Next.js',
@@ -6,10 +11,12 @@ export const metadata: Metadata = {
 }
 
 const PageHome = () => (
-  <main className="flex min-h-screen flex-col items-center justify-center gap-10 text-7xl">
-    <p className="text-primary">Hello World!!</p>
-    <p className="text-5xl">Test Font Primary</p>
-    <p className="font-secondary text-5xl ">Test Font Secondary</p>
+  <main className="flex min-h-screen flex-col justify-center md:max-w-7xl">
+    <NavBar />
+    <HeroContent />
+    <Features />
+    <Articles />
+    <Footer />
   </main>
 )
 

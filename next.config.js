@@ -6,7 +6,7 @@
  * example: https://github.com/yourname/myproject-101-somechallenge
  * const REPO_PATH = 'myproject-101-somechallenge'
  */
-const REPO_PATH = 'MY-REPO-PATH'
+const REPO_PATH = 'frontendmentor-easybank-landing-page'
 
 
 

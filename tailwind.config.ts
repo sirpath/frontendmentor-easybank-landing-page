@@ -15,7 +15,17 @@ const config: Config = {
         secondary: ['var(--font-secondary)'],
       },
       colors: {
-        specific: '#F0F0F0',
+        primary: 'hsl(233, 26%, 24%)',
+        secondary: 'hsl(233, 8%, 62%)',
+        'light-grayish': 'hsl(220, 16%, 96%)',
+        'very-light-gray': 'hsl(0, 0%, 98%)',
+        'lime-green': 'hsl(136, 65%, 51%)',
+        'bright-cyan': 'hsl(192, 70%, 51%)',
+
+      },
+      backgroundImage: {
+        'mobile-banner': 'url(/images/bg-intro-mobile.svg)',
+        'desktop-banner': 'url(/images/bg-intro-desktop.svg)',
       },
     },
   },
@@ -33,19 +43,9 @@ const config: Config = {
         'base-content': '', // base content color.
         */
       },
-      dark: {
-        ...daisyuiThemes['[data-theme=dark]'],
-        /*
-        primary: '', // dominant color.
-        secondary: '', // less dominant but still distinguishable.
-        accent: '', // draw attention, notifications, highlighted text
-        neutral: '', // shades of blacks, grays, and whites. don't convey a specific mood or emotion on their own.
-        'base-100': '', // base backgrounds color.
-        'base-content': '', // base content color.
-        */
-      },
+
     }],
-    darkTheme: 'dark',
+    darkTheme: 'light',
     logs: false,
   },
 }
