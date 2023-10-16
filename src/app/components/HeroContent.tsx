@@ -3,7 +3,7 @@ import Image from 'next/image'
 
 const HeroContent = () => (
   <div className="z-10 flex w-full flex-col pb-14  md:flex-row-reverse  md:pb-0">
-    <div className="bg-mobile-banner bg-center bg-no-repeat md:bg-desktop-banner md:bg-contain md:bg-left lg:bg-auto">
+    <div className="background-hero-mobile bg-center bg-no-repeat md:bg-contain md:bg-left lg:bg-auto">
       <Image className="cropMobilePhoto -mt-[35%] md:-mt-[10%] lg:-mt-[17%] xl:-mb-[20%] xl:ml-[17%]" width={767} height={939} src="./images/image-mockups.png" alt="banner" />
     </div>
 

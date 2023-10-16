@@ -23,10 +23,6 @@ const config: Config = {
         'bright-cyan': 'hsl(192, 70%, 51%)',
 
       },
-      backgroundImage: {
-        'mobile-banner': 'url(./images/bg-intro-mobile.svg)',
-        'desktop-banner': 'url(./images/bg-intro-desktop.svg)',
-      },
     },
   },
   plugins: [daisyui],

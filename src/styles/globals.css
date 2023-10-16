@@ -22,6 +22,15 @@ html {
   position: relative;
 }
 
+.background-hero-mobile {
+  background-image: url('./images/bg-intro-mobile.svg');
+}
+
+@media only screen and (min-width: 768px) {
+  .background-hero-mobile {
+    background-image: url('./images/bg-intro-desktop.svg');
+  }
+}
 
 @screen xl {
   .cropMobilePhoto {
