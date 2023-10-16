@@ -24,8 +24,8 @@ const config: Config = {
 
       },
       backgroundImage: {
-        'mobile-banner': 'url(/images/bg-intro-mobile.svg)',
-        'desktop-banner': 'url(/images/bg-intro-desktop.svg)',
+        'mobile-banner': 'url(./images/bg-intro-mobile.svg)',
+        'desktop-banner': 'url(./images/bg-intro-desktop.svg)',
       },
     },
   },
