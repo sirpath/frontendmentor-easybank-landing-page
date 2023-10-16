@@ -23,12 +23,12 @@ html {
 }
 
 .background-hero-mobile {
-  background-image: url('./images/bg-intro-mobile.svg');
+  background-image: url('https://sirpath.github.io/frontendmentor-easybank-landing-page/images/bg-intro-mobile.svg');
 }
 
 @media only screen and (min-width: 768px) {
   .background-hero-mobile {
-    background-image: url('./images/bg-intro-desktop.svg');
+    background-image: url('https://sirpath.github.io/frontendmentor-easybank-landing-page/images/bg-intro-desktop.svg');
   }
 }
 
